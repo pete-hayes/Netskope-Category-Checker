@@ -1,4 +1,4 @@
-# netskope-category-checker
+# Netskope-Category-Checker
 
 ## Description
 Checks category accessibility from a browser when running behind Netskope and flags each category as either Accessible or Not Accessible.
